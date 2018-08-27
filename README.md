@@ -1,2 +1,5 @@
 # star_dinner
-a simple game using pygame library
+a simple python game using pygame library
+Dependencies:
+Pygame
+install using 'pip3 install pygame' 
